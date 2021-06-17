@@ -1,0 +1,15 @@
+{
+  "name": "rafin/app_etl",
+  "authors": [
+    {
+      "name": "Rafael Tessarolo",
+      "email": "rafinha.tessarolo@hotmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  }
+}
